@@ -1,0 +1,4 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // この行を追加する
+  "editor.formatOnSave": true
+}
